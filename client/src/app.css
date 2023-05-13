@@ -1,0 +1,10 @@
+.grid{
+    padding: auto;
+}
+
+.ad-card{
+    display: inline-block;
+    border: solid;
+    margin: 5%;
+    padding: auto;
+}
